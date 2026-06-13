@@ -88,7 +88,7 @@ export function AboutSection() {
             className="lg:w-1/2 bg-black/20 backdrop-blur-2xl border border-white/10 rounded-[2rem] p-8 md:p-12 shadow-[0_20px_50px_rgba(0,0,0,0.5)]"
           >
             <p className="text-xl font-light text-white/90 leading-relaxed mb-8">
-              At our operational hub in Labu, Malaysia, data-driven climate control systems meet meticulous agronomic care. We oversee the entire lifecycle of our commercial produce—from precision germination to our rapid cold chain dispatch network—ensuring fresh, premium quality harvests for our partners.
+              At our operational hub in Labu, Malaysia, data driven climate control systems meet meticulous agronomic care. We oversee the entire lifecycle of our commercial produce, from precision germination to our rapid cold chain dispatch network, ensuring fresh, premium quality harvests for our partners.
             </p>
             <Link href="/about-us" className="bg-[#bef264] text-black px-8 py-4 font-bold uppercase text-sm tracking-widest hover:bg-[#bef264]/80 transition-colors inline-block text-center rounded-full shadow-[0_0_20px_rgba(190,242,100,0.3)]">
               ABOUT US
