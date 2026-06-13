@@ -446,14 +446,23 @@ export default function ContactPage() {
                </p>
             </div>
             
-            <div>
-               <h3 className="text-xl font-bold uppercase mb-4 text-[#bef264]">Direct Contact</h3>
-               <div className="space-y-2 text-white/70">
-                 <p><span className="font-bold text-white uppercase text-xs w-24 inline-block tracking-wider">Trading Desk</span> 012-3636 951</p>
-                 <p><span className="font-bold text-white uppercase text-xs w-24 inline-block tracking-wider">Email</span> agronomistvalleys@yahoo.com</p>
-                 <p><span className="font-bold text-white uppercase text-xs w-24 inline-block tracking-wider">WhatsApp</span> 012-3636 951</p>
-               </div>
-            </div>
+            <div className="w-full">
+                <h3 className="text-xl font-bold uppercase mb-4 text-[#bef264]">Direct Contact</h3>
+                <div className="space-y-3 text-white/70 w-full max-w-sm">
+                  <div className="flex justify-between items-center gap-4">
+                    <span className="font-bold text-white uppercase text-xs tracking-wider shrink-0">Trading Desk</span> 
+                    <span className="text-right">012-3636 951</span>
+                  </div>
+                  <div className="flex justify-between items-center gap-4">
+                    <span className="font-bold text-white uppercase text-xs tracking-wider shrink-0">Email</span> 
+                    <a href="mailto:agronomistvalleys@yahoo.com" className="text-right hover:text-[#bef264] transition-colors break-all">agronomistvalleys@yahoo.com</a>
+                  </div>
+                  <div className="flex justify-between items-center gap-4">
+                    <span className="font-bold text-white uppercase text-xs tracking-wider shrink-0">WhatsApp</span> 
+                    <span className="text-right">012-3636 951</span>
+                  </div>
+                </div>
+             </div>
 
             <div>
                <h3 className="text-xl font-bold uppercase mb-4 text-[#bef264]">Operating Hours</h3>
