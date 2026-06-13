@@ -1,0 +1,6 @@
+{
+  "name": "AgronoMist Valley's",
+  "description": "B2B commercial wholesale vegetable supplier based in Malaysia. Distributing high-quality produce to top-tier restaurants and grocers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
