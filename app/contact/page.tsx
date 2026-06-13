@@ -450,7 +450,7 @@ export default function ContactPage() {
                <h3 className="text-xl font-bold uppercase mb-4 text-[#bef264]">Direct Contact</h3>
                <div className="space-y-2 text-white/70">
                  <p><span className="font-bold text-white uppercase text-xs w-24 inline-block tracking-wider">Trading Desk</span> 012-3636 951</p>
-                 <p><span className="font-bold text-white uppercase text-xs w-24 inline-block tracking-wider">Email</span> premnath.6775@gmail.com</p>
+                 <p><span className="font-bold text-white uppercase text-xs w-24 inline-block tracking-wider">Email</span> agronomistvalleys@yahoo.com</p>
                  <p><span className="font-bold text-white uppercase text-xs w-24 inline-block tracking-wider">WhatsApp</span> 012-3636 951</p>
                </div>
             </div>

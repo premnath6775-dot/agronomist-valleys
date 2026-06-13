@@ -91,7 +91,7 @@ export async function POST(req: Request) {
     // Send email using Resend
     const resendResponse = await resend.emails.send({
       from: 'onboarding@resend.dev',
-      to: 'premnath.6775@gmail.com',
+      to: 'agronomistvalleys@yahoo.com',
       subject: `Order Request - ${name || 'New Client'} 🥬`,
       html: htmlTemplate
     });
